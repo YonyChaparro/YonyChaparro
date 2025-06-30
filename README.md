@@ -10,12 +10,11 @@
 
 ## 🧠 Sobre mí
 
-🎯 Me considero un llanero curioso que disfruta entender cómo funcionan las cosas por dentro, especialmente en el backend.
 
 💡 Actualmente estoy enfocado en mejorar y profundizar en:
 
 - 🔧 **Node.js**, **Java SE**, **Python**
-- 🗃️ Bases de datos: **SQL (MySQL, PostgreSQL)** y **NoSQL (MongoDB)**
+- 🗃️ Bases de datos: **SQL (MySQL, PostgreSQL)** 
 - 🧱 Frameworks: **Express.js**, **Spring Boot**, **Electron.js**
 - 📂 Control de versiones con **Git** y trabajo colaborativo en **GitHub**
 
@@ -36,7 +35,7 @@
     <tr>
       <td>JavaScript, Java, Python</td>
       <td>Express.js, Spring Boot, Electron.js</td>
-      <td>MySQL, PostgreSQL, MongoDB</td>
+      <td>MySQL, PostgreSQL</td>
       <td>Git, GitHub, Postman</td>
     </tr>
   </tbody>
