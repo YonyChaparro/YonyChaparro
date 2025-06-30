@@ -21,7 +21,7 @@ Con muchas ganas de aprender, desde 2023 estudio Ingeniería de Sistemas y Compu
 
 | Lenguajes         | Frameworks       | Bases de datos          | Herramientas          |
 |-------------------|------------------|--------------------------|------------------------|
-| JavaScript, Java, Python | Express.js, Spring Boot | MySQL, PostgreSQL, MongoDB | Git, GitHub, Postman, Electron |
+| JavaScript, Java, Python | Express.js, Spring Boot, ElectronJs | MySQL, PostgreSQL, MongoDB | Git, GitHub, Postman |
 
 ---
 
