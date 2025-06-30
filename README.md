@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Yony Chaparro
+# 🤠 ¡Hola! Soy Yony Chaparro
 
 **Estudiante de Ingeniería de Sistemas y Computación | Backend Developer en formación | Curioso por naturaleza**
 
